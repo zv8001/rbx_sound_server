@@ -1,1 +1,1 @@
-As of 9:37 p.m. 2/19/2025 deployment of the auto updater is being slow so you may get a 404 error.
+As of 7:14 AM 2/20/2025 the update server has been fixed
