@@ -1,1 +1,1 @@
-We are aware of problems and bugs with v1.1.0 & 1.1.1 we are working to resolve the issues sorry for the inconvenience.
+We are aware of severe bugs with v1.1.0 & 1.1.1 we are working to resolve the issues v1.1.2 should release soon and fix all of the problems sorry for the inconvenience. Expect a new version by 10:00 PM CST 2/20/2025.
