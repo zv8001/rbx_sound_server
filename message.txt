@@ -1,1 +1,1 @@
-As of 7:14 AM 2/20/2025 the update server has been fixed
+We are aware of problems and bugs with v1.1.0 & 1.1.1 we are working to resolve the issues sorry for the inconvenience.
