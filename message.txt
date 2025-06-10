@@ -1,1 +1,1 @@
-Sorry for the lack of updates on the program v1.1.50 is basically completely perfected the program probably will not be updated further unless a serious issue arises.
+Roblox appears to have patched the full game audio and full game images functions powered by the HTTP temp folder. We are currently investigating whether there is any way around this.
