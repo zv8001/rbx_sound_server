@@ -1,1 +1,1 @@
-A solution to this problem has been found!! It looks like Roblox stores stuff in a database file now we are working as fast as possible to restore functionality.
+v1.2.0 has implemented the systems overhaul and the program now works fully
