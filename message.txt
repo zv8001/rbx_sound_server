@@ -1,1 +1,1 @@
-Roblox appears to have patched the full game audio and full game images functions powered by the HTTP temp folder. We are currently investigating whether there is any way around this.
+A solution to this problem has been found!! It looks like Roblox stores stuff in a database file now we are working as fast as possible to restore functionality.
