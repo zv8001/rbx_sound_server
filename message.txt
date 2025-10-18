@@ -1,1 +1,1 @@
-v1.2.0 has implemented the systems overhaul and the program now works fully
+There were a few vulnerabilities in the libraries in versions v1.2.3 and earlier. We recommend deleting the DLL files and updating the program.
