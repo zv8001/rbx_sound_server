@@ -1,1 +1,1 @@
-There were a few vulnerabilities in the libraries in versions v1.2.3 and earlier. We recommend deleting the DLL files and updating the program.
+I am pleased to introduce version 2.0.0 (OVERHUAL) after almost a year of inactivity.. Extreme optimizations to Performance and how it runs slashing loading times by over 99%. And a few new features have been added!! -Vex the gay furry :3
