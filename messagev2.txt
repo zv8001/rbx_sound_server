@@ -1,1 +1,2 @@
-If you're seeing this you have updated to version v3.0.0 OVERHAUL-MP2 congratulations!!
+We have recently released v3.1.1 which contains a major security update for the auto updater. if you haven't done so already please update to v3.1.1 either by using the update system included in your build or by downloading from:
+https://rbx-asset-extractor.vexthatprotogen.com/
