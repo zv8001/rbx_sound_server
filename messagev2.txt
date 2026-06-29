@@ -1,2 +1,2 @@
-We have recently released v3.1.1 which contains a major security update for the auto updater. if you haven't done so already please update to v3.1.1 either by using the update system included in your build or by downloading from:
+We have recently released v3.1.2 which contains a major security update for the auto updater. if you haven't done so already please update to v3.1.2 either by using the update system included in your build or by downloading from:
 https://rbx-asset-extractor.vexthatprotogen.com/
