@@ -1,1 +1,5 @@
-f
+{
+  "version": "0.1.1",
+  "notes": "Optional short message shown in the update prompt.",
+  "url": "https://github.com/zv8001/VexCut/releases/latest"
+}
