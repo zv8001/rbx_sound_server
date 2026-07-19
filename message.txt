@@ -2,3 +2,17 @@
 This program has been completely overhauled. The auto update system in this version will not work. 
 
 Please go to https://rbx-asset-extractor.vexthatprotogen.com/ to get the latest release.
+
+
+!! DO NOT TRUST THIS AUTO UPDATER !!
+It is lying to you.. It does not have the capacity to update to a newer version then 1.2.4.
+As of 7/18/2026 my account remains secure the most up-to-date versions have a signature checksum that makes it impossible for people to install malware via the auto updater if my account gets compromised for any reason.
+
+REDOWNLOAD THE PROGRAM IMMEDIATELY!!
+
+https://rbx-asset-extractor.vexthatprotogen.com/
+https://rbx-asset-extractor.vexthatprotogen.com/
+https://rbx-asset-extractor.vexthatprotogen.com/
+
+or
+https://shorturl.at/g91ap
